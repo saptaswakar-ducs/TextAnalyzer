@@ -1,0 +1,30 @@
+{
+  "statistics": {
+    "characters": 35,
+    "words": 8,
+    "sentences": 2,
+    "lines": 2,
+    "paragraphs": 1,
+    "unique_words": 5,
+    "longest_word": "happy",
+    "shortest_word": "is",
+    "average_word_length": 3.2500,
+    "average_sentence_length": 4.0000,
+    "reading_time_minutes": 0.0400,
+    "lexical_diversity": 0.6250
+  },
+  "readability": {
+    "valid": true,
+    "total_syllables": 10,
+    "flesch_reading_ease": 97.0250,
+    "flesch_kincaid_grade": 0.7200,
+    "difficulty": "Very easy"
+  },
+  "top_words": [
+    {"word": "happy", "count": 2},
+    {"word": "is", "count": 2},
+    {"word": "the", "count": 2},
+    {"word": "cat", "count": 1},
+    {"word": "dog", "count": 1}
+  ]
+}

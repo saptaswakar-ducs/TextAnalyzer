@@ -1,0 +1,36 @@
+TEXT ANALYSIS REPORT
+====================
+
+TEXT STATISTICS
+Characters: 212
+Words: 39
+Sentences: 4
+Lines: 3
+Paragraphs: 1
+Unique words: 32
+Longest word: interviews
+Shortest word: a
+Average word length: 4.36
+Average sentence length: 9.75
+Reading time (minutes): 0.20
+Lexical diversity: 82.05%
+
+READABILITY
+Syllables: 59
+Flesch Reading Ease: 68.95
+Flesch-Kincaid Grade: 6.06
+Difficulty: Standard
+
+TOP WORDS
+a: 2
+are: 2
+for: 2
+i: 2
+interviews: 2
+puzzels: 2
+to: 2
+am: 1
+and: 1
+better: 1
+
+Note: Syllable counts and readability scores are estimates.

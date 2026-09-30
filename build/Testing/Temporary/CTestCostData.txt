@@ -1,0 +1,6 @@
+StatisticsTests 5 0.00285615
+WordFrequencyTests 4 0.618852
+TextSearchTests 3 0.00616592
+ReadabilityTests 2 0.00490603
+ReportGeneratorTests 2 1.12284
+---

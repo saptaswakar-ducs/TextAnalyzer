@@ -1,0 +1,9 @@
+/Users/saptaswakar/Desktop/project/TextAnalyzer/build/CMakeFiles/text_analyzer.dir
+/Users/saptaswakar/Desktop/project/TextAnalyzer/build/CMakeFiles/test_statistics.dir
+/Users/saptaswakar/Desktop/project/TextAnalyzer/build/CMakeFiles/test_word_frequency.dir
+/Users/saptaswakar/Desktop/project/TextAnalyzer/build/CMakeFiles/test_text_search.dir
+/Users/saptaswakar/Desktop/project/TextAnalyzer/build/CMakeFiles/test_readability.dir
+/Users/saptaswakar/Desktop/project/TextAnalyzer/build/CMakeFiles/test_report_generator.dir
+/Users/saptaswakar/Desktop/project/TextAnalyzer/build/CMakeFiles/test.dir
+/Users/saptaswakar/Desktop/project/TextAnalyzer/build/CMakeFiles/edit_cache.dir
+/Users/saptaswakar/Desktop/project/TextAnalyzer/build/CMakeFiles/rebuild_cache.dir

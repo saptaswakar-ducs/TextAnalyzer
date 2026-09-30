@@ -1049,4 +1049,5 @@ University of Delhi
 
 ## License
 
-This project is intended primarily for educational and portfolio purposes. Add an explicit open-source license such as MIT if you plan to distribute the project publicly.
+This project is intended primarily for educational and portfolio purposes. Add an explicit open-source license such as MIT if you plan to distribute the project publicly. 
+2026, Saptaswa Kar. All rights reserved.

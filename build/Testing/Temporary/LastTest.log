@@ -1,0 +1,83 @@
+Start testing: Sep 29 14:27 IST
+----------------------------------------------------------
+1/5 Testing: StatisticsTests
+1/5 Test: StatisticsTests
+Command: "/Users/saptaswakar/Desktop/project/TextAnalyzer/build/test_statistics"
+Directory: /Users/saptaswakar/Desktop/project/TextAnalyzer/build
+"StatisticsTests" start time: Sep 29 14:27 IST
+Output:
+----------------------------------------------------------
+All statistics tests passed!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StatisticsTests" end time: Sep 29 14:27 IST
+"StatisticsTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: WordFrequencyTests
+2/5 Test: WordFrequencyTests
+Command: "/Users/saptaswakar/Desktop/project/TextAnalyzer/build/test_word_frequency"
+Directory: /Users/saptaswakar/Desktop/project/TextAnalyzer
+"WordFrequencyTests" start time: Sep 29 14:27 IST
+Output:
+----------------------------------------------------------
+All word frequency tests passed!
+<end of output>
+Test time =   2.48 sec
+----------------------------------------------------------
+Test Passed.
+"WordFrequencyTests" end time: Sep 29 14:27 IST
+"WordFrequencyTests" time elapsed: 00:00:02
+----------------------------------------------------------
+
+3/5 Testing: TextSearchTests
+3/5 Test: TextSearchTests
+Command: "/Users/saptaswakar/Desktop/project/TextAnalyzer/build/test_text_search"
+Directory: /Users/saptaswakar/Desktop/project/TextAnalyzer/build
+"TextSearchTests" start time: Sep 29 14:27 IST
+Output:
+----------------------------------------------------------
+All text search tests passed!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TextSearchTests" end time: Sep 29 14:27 IST
+"TextSearchTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: ReadabilityTests
+4/5 Test: ReadabilityTests
+Command: "/Users/saptaswakar/Desktop/project/TextAnalyzer/build/test_readability"
+Directory: /Users/saptaswakar/Desktop/project/TextAnalyzer/build
+"ReadabilityTests" start time: Sep 29 14:27 IST
+Output:
+----------------------------------------------------------
+All readability tests passed!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ReadabilityTests" end time: Sep 29 14:27 IST
+"ReadabilityTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: ReportGeneratorTests
+5/5 Test: ReportGeneratorTests
+Command: "/Users/saptaswakar/Desktop/project/TextAnalyzer/build/test_report_generator"
+Directory: /Users/saptaswakar/Desktop/project/TextAnalyzer/build
+"ReportGeneratorTests" start time: Sep 29 14:27 IST
+Output:
+----------------------------------------------------------
+All report generator tests passed!
+<end of output>
+Test time =   2.25 sec
+----------------------------------------------------------
+Test Passed.
+"ReportGeneratorTests" end time: Sep 29 14:27 IST
+"ReportGeneratorTests" time elapsed: 00:00:02
+----------------------------------------------------------
+
+End testing: Sep 29 14:27 IST

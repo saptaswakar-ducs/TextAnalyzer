@@ -1,0 +1,5 @@
+
+Hello, World!
+This is a simple text analyzer.
+C++ is a powerful programming language.
+Text analysis is useful for many applications.
